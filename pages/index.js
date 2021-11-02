@@ -11,7 +11,7 @@ const Home = () => (
 
 
     <div className='hero'>
-      <h1 className='title'>ƒ.cc</h1>
+      <h1 className='title'>strawberry-hotel-lima</h1>
       <p className='description'>
         
       </p>
